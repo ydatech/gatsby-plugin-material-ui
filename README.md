@@ -1,5 +1,5 @@
 # gatsby-plugin-material-ui
-Gatsby Plugin for Material-UI v.1 https://github.com/mui-org/material-ui
+Gatsby Plugin for Material-UI > v.1 https://github.com/mui-org/material-ui
 
 Material-UI's styling solution uses JSS at its core. 
 So we can use `gatsby-plugin-jss ` https://www.npmjs.com/package/gatsby-plugin-jss 
